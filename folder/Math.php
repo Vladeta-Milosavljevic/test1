@@ -2,7 +2,7 @@
 
 class Math
 {
-    protected $i;
+    protected $i = 766;
 
     public function square($n)
     {

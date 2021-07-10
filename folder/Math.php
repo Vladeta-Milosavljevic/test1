@@ -11,5 +11,5 @@ class Math
     {
         return $n * $n;
     }
-    protected $novopolje = 'novo';
+    protected $novopolje = 'nova izmena';
 }

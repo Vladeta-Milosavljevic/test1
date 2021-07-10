@@ -11,5 +11,5 @@ class Math
     {
         return $n * $n;
     }
-    protected $novopolje = 'nesto trece';
+    protected $novopolje = 'nesto trece1';
 }
